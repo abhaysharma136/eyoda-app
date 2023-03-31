@@ -64,6 +64,7 @@ function CollapseDiv() {
               border: "none",
               fontSize: "16px",
               borderRadius: "5px",
+              cursor: "pointer",
             }}
           >
             DS031221

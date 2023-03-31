@@ -32,7 +32,9 @@ function MiddleContent() {
     background: "aliceblue",
     color: "#000080",
   };
-  const nonActiveMenu = {};
+  const nonActiveMenu = {
+    cursor: "pointer",
+  };
   return (
     <div className="middleContentContainer">
       <div className="leftDiv">
